@@ -8,7 +8,6 @@ https://github.com/user-attachments/assets/11ca05a2-fd00-4f74-9e79-8330c69e42f2
 
 
 
----
 
 ## ✨ **Features**
 
@@ -18,7 +17,7 @@ https://github.com/user-attachments/assets/11ca05a2-fd00-4f74-9e79-8330c69e42f2
 - 📸 **Social Sharing** – Auto-generate branded ticket images ready for social media
 - 🦊 **Wallet Integration** – Link Discord accounts to crypto wallets with ease  
 
----
+
 
 ## 🧠 **Tech Stack**
 
@@ -31,7 +30,7 @@ https://github.com/user-attachments/assets/11ca05a2-fd00-4f74-9e79-8330c69e42f2
 | 🖼️ Image Generation | Canvas + Sharp |
 | ☁️ Deployment | Vercel / Netlify Ready |
 
----
+
 
 ## ⚙️ **Prerequisites**
 
@@ -40,7 +39,6 @@ https://github.com/user-attachments/assets/11ca05a2-fd00-4f74-9e79-8330c69e42f2
 - Discord Bot Token
 - Helio API Credentials  
 
----
 
 ## 🚀 **Setup**
 
@@ -80,7 +78,7 @@ npm run dev
 npm run dev:bot
 ```
 
----
+
 
 ## 💬 **Bot Commands**
 
@@ -91,7 +89,7 @@ npm run dev:bot
 | `/my-tickets` | View your purchased tickets |
 | `/quickpick` | Random number selection |
 
----
+
 
 ## 🔁 **User Flow**
 
@@ -101,7 +99,7 @@ npm run dev:bot
 4. 💾 **Auto Sync** – Tickets stored in web DB  
 5. 📸 **Social Share** – Receive your ticket image  
 
----
+
 
 ## 🧩 **API Endpoints**
 
@@ -112,7 +110,7 @@ npm run dev:bot
 | `/api/tickets` | GET | Fetch user tickets |
 | `/api/webhooks/helio` | POST | Handle payment webhook |
 
----
+
 
 ## 🖼️ **Ticket Image Generation**
 
@@ -124,7 +122,7 @@ Each ticket image includes:
 - 🔗 QR code linking to web app  
 - 📢 Social sharing prompt  
 
----
+
 
 ## 🔐 **Security Features**
 
@@ -134,7 +132,6 @@ Each ticket image includes:
 - 🕒 Command rate limiting  
 - 💵 Secure payment processing  
 
----
 
 ## ☁️ **Deployment**
 
@@ -150,7 +147,7 @@ npm run build
 npm start
 ```
 
----
+
 
 ## 🤝 **Contributing**
 
@@ -159,13 +156,6 @@ npm start
 3. Commit your changes 💾  
 4. Push & open a PR 🚀  
 
----
-
-## 🧾 **License**
-
-Licensed under **MIT License** – see `LICENSE` for details.  
-
----
 
 ## 💬 **Support & Contact**
 
@@ -173,8 +163,8 @@ Need help or wanna collaborate?
 Join our Discord or reach out via Telegram 👇  
 
 # 👨‍💻 Author
-### 📞 Telegram: [0xOpsDev](https://t.me/its0xopsdev)   
-https://t.me/its0xopsdev
+### 📞 Telegram: [lorine93s](https://t.me/lorine93s)   
+https://t.me/lorine93s
 ---
 
 🎰 *Bringing lottery fun to Discord — powered by crypto & community.* 💫
